@@ -1,3 +1,11 @@
+# Iris Flower Classifier
+
+A simple AI project to predict iris flower species using logistic regression.
+
+- `train_model3.py`: Trains and tunes the model.
+- `app.py`: Runs a web API to predict species.
+- Run `pip install scikit-learn pandas flask joblib` to install tools.
+
 ## Test app.py
 
 ### build model
