@@ -1,0 +1,5 @@
+# Required for the iris classifier project
+scikit-learn
+pandas
+flask
+joblib
